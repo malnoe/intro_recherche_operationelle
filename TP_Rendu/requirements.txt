@@ -1,0 +1,2 @@
+La version de Python utilisée est la version 3.12.4
+Packages utilisés : cvxpy, numpy, matplotlib, warnings
